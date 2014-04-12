@@ -1,0 +1,31 @@
+p{
+	font-size: 18px;
+	font-style: normal;
+	color: #FF9966;
+}
+h1{
+	font-size: 30px;
+	color: #FF9966
+}
+
+}
+.first-paragraph {
+	font-size: 14px;
+	color: #FF9966;
+}
+.second-paragraph{
+	font-size: 20px;
+	color: #FF9966;
+
+}
+body {
+	background-color: #FFFFFF;
+}
+
+header {
+	float: left;
+	border:1px solid #;
+	border-radius: 20px;
+	border-radius: 20px;
+	border-radius: 20px; 
+}
